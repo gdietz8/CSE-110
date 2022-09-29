@@ -18,5 +18,8 @@ My current goals include:
 - [ ] [my favorite computer game](https://play2048.co/)
 - [ ] [a relaxing game](https://thisissand.com/)
 - [ ] a picture of my cat Emily! 
-![IMG-1642](https://user-images.githubusercontent.com/83431340/192615434-025cfaf9-7d16-4806-9f60-ab032840dfdc.jpg)
+
+![IMG-1642 (1)](https://user-images.githubusercontent.com/83431340/193126412-935987a8-50cd-4275-9c24-a07d8e22a1bb.jpg)
 - [ ] and my cat Khaleesi :)
+
+![IMG-2254 (2) (2)](https://user-images.githubusercontent.com/83431340/193126167-fbc4a55a-8bbb-41f4-b782-2765dae4753f.jpeg)
