@@ -21,7 +21,7 @@
 ### My jobs:
 1. CSE 15L tutor
    - some commands students learn in this class include `cd`, `mkdir`, and `scp`
-2. AAh math tutor
+2. AAH math tutor
    - some math notation:
      - x<sub>1</sub> = 20
      - 9<sup>2</sup> = 81
