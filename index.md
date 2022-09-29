@@ -29,7 +29,7 @@
 ### ***Check out this fun stuff before you go!***
 - [ ] [my favorite computer game](https://play2048.co/)
 - [ ] [a relaxing game](https://thisissand.com/)
-- [ ] [screenshots for part 2 of lab1](screenshots)
+- [ ] [README.md for lab1](README.md)
 - [ ] favorite quote:
 > "To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge." Grace Hopper
 - [ ] a picture of my cat Emily! 
